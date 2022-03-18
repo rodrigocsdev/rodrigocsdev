@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/rodrigocsdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigocsdev&show_icons=true&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>  
+  <img height="180em" src="[!(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>  
 </div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
