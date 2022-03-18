@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/rodrigocsdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigocsdev&show_icons=true&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocsdev"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocsdev)](https://github.com/rodrigocsdev/github-readme-stats"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Csharp"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">  
