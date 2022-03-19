@@ -1,10 +1,10 @@
 ## Oi eu sou o Rodrigo, um empresário realizando um sonho
 <div align="center">
-  <a href="https://github.com/rodrigocsdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigocsdev&show_icons=true&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="[(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>  
+  <a href="https://github.com/rodrigocsdev ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigocsdev &show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocsdev &layout=compact&langs_count=7"/>
 </div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Csharp"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">  
   <img align="center" alt="Rodrigo-HTML"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
