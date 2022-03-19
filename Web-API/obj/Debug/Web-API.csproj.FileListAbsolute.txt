@@ -1,0 +1,335 @@
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\Web-API.dll.config
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\Web-API.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\Web-API.pdb
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\csc.exe
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\csc.exe.config
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\csc.rsp
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\csi.exe
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\csi.exe.config
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\csi.rsp
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.AppContext.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Console.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.IO.Compression.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Net.Http.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.ValueTuple.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\vbc.exe
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\vbc.exe.config
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\vbc.rsp
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\VBCSCompiler.exe
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\Newtonsoft.Json.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\System.Net.Http.Formatting.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\System.Web.Http.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\System.Web.Http.WebHost.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\Newtonsoft.Json.xml
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\System.Net.Http.Formatting.xml
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\System.Web.Http.xml
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\System.Web.Http.WebHost.xml
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\obj\Debug\Web-API.csproj.AssemblyReference.cache
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\obj\Debug\Web-API.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\obj\Debug\Web-API.csproj.CopyComplete
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\obj\Debug\Web-API.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\Web-API\obj\Debug\Web-API.pdb
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\Web-API.dll.config
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\Web-API.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\Web-API.pdb
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\csc.exe
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\csc.exe.config
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\csc.rsp
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\csi.exe
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\csi.exe.config
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\csi.rsp
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.AppContext.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Console.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.IO.Compression.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Net.Http.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.ValueTuple.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\vbc.exe
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\vbc.exe.config
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\vbc.rsp
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\VBCSCompiler.exe
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\Newtonsoft.Json.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\System.Net.Http.Formatting.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\System.Web.Http.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\System.Web.Http.WebHost.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\Newtonsoft.Json.xml
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\System.Net.Http.Formatting.xml
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\System.Web.Http.xml
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\System.Web.Http.WebHost.xml
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\obj\Debug\Web-API.csproj.AssemblyReference.cache
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\obj\Debug\Web-API.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\obj\Debug\Web-API.csproj.CopyComplete
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\obj\Debug\Web-API.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Web-API\Web-API\obj\Debug\Web-API.pdb
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\Web-API.dll.config
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\Web-API.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\Web-API.pdb
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\csc.exe
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\csc.exe.config
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\csc.rsp
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\csi.exe
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\csi.exe.config
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\csi.rsp
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.AppContext.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Console.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.IO.Compression.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Net.Http.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.ValueTuple.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\vbc.exe
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\vbc.exe.config
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\vbc.rsp
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\VBCSCompiler.exe
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\Newtonsoft.Json.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\System.Net.Http.Formatting.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\System.Web.Http.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\System.Web.Http.WebHost.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\Newtonsoft.Json.xml
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\System.Net.Http.Formatting.xml
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\System.Web.Http.xml
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\System.Web.Http.WebHost.xml
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\obj\Debug\Web-API.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\obj\Debug\Web-API.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\obj\Debug\Web-API.csproj.CopyComplete
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\obj\Debug\Web-API.dll
+C:\Users\rodri\OneDrive - Comlink\Web-API\Web-API\obj\Debug\Web-API.pdb
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\Web-API.dll.config
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\Web-API.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\Web-API.pdb
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\csc.exe
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\csc.exe.config
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\csc.rsp
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\csi.exe
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\csi.exe.config
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\csi.rsp
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.AppContext.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Console.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.IO.Compression.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Net.Http.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.ValueTuple.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\vbc.exe
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\vbc.exe.config
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\vbc.rsp
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\VBCSCompiler.exe
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\Newtonsoft.Json.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\System.Net.Http.Formatting.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\System.Web.Http.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\System.Web.Http.WebHost.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\Newtonsoft.Json.xml
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\System.Net.Http.Formatting.xml
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\System.Web.Http.xml
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\System.Web.Http.WebHost.xml
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\obj\Debug\Web-API.csproj.AssemblyReference.cache
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\obj\Debug\Web-API.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\obj\Debug\Web-API.csproj.CopyComplete
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\obj\Debug\Web-API.dll
+C:\Users\rodrigo.santos\OneDrive - Comlink\Rodrigo\Web-API\Web-API\obj\Debug\Web-API.pdb
+C:\MEGA\Projetos\Web-API\Web-API\bin\Web-API.dll.config
+C:\MEGA\Projetos\Web-API\Web-API\bin\Web-API.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\Web-API.pdb
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\csc.exe
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\csc.exe.config
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\csc.rsp
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\csi.exe
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\csi.exe.config
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\csi.rsp
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.AppContext.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Collections.Immutable.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Console.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Globalization.Calendars.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.IO.Compression.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.IO.FileSystem.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Net.Http.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Net.Sockets.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Reflection.Metadata.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.ValueTuple.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Xml.XPath.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\vbc.exe
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\vbc.exe.config
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\vbc.rsp
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\VBCSCompiler.exe
+C:\MEGA\Projetos\Web-API\Web-API\bin\roslyn\VBCSCompiler.exe.config
+C:\MEGA\Projetos\Web-API\Web-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\Newtonsoft.Json.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\System.Net.Http.Formatting.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\System.Web.Http.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\System.Web.Http.WebHost.dll
+C:\MEGA\Projetos\Web-API\Web-API\bin\Newtonsoft.Json.xml
+C:\MEGA\Projetos\Web-API\Web-API\bin\System.Net.Http.Formatting.xml
+C:\MEGA\Projetos\Web-API\Web-API\bin\System.Web.Http.xml
+C:\MEGA\Projetos\Web-API\Web-API\bin\System.Web.Http.WebHost.xml
+C:\MEGA\Projetos\Web-API\Web-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MEGA\Projetos\Web-API\Web-API\obj\Debug\Web-API.csproj.AssemblyReference.cache
+C:\MEGA\Projetos\Web-API\Web-API\obj\Debug\Web-API.csproj.CoreCompileInputs.cache
+C:\MEGA\Projetos\Web-API\Web-API\obj\Debug\Web-API.csproj.CopyComplete
+C:\MEGA\Projetos\Web-API\Web-API\obj\Debug\Web-API.dll
+C:\MEGA\Projetos\Web-API\Web-API\obj\Debug\Web-API.pdb
