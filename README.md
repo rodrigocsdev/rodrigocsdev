@@ -1,8 +1,8 @@
 ## Oi eu sou o Rodrigo, um empresário realizando um sonho
 <div align="center">
-  <a href="https://github.com/rodrigocsdev ">
+  <a href="https://github.com/rodrigocsdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigocsdev&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocsdev&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocsdev"/>
 </div>
   
 <div style="display: inline_block"><br>
