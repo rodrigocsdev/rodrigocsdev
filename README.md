@@ -35,6 +35,7 @@
   <img align="center" alt="Rodrigo-Laravel"  src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="Rodrigo-AngularJS"  src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
   <img align="center" alt="Rodrigo-Angular"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="Rodrigo-Angular"  src="https://img.shields.io/badge/Delphi-DD0031?style=for-the-badge&logo=delphi&logoColor=white">
 </div>
   
   ##
