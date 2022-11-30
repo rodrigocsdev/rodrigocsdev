@@ -1,4 +1,4 @@
-## Oi eu sou o Rodrigo, um empresário realizando um sonho
+## Oi eu sou o Rodrigo, desenvolvedor full stack
 <div align="center">
   <a href="https://github.com/rodrigocsdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigocsdev&show_icons=true&include_all_commits=true&count_private=true"/>
