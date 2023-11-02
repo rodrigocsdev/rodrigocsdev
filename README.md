@@ -1,8 +1,11 @@
-## Oi eu sou o Rodrigo, Desenvolvedor Full Stack, tenho conhecimento em Delphi,C#,ASP.NET,HTML,CSS,JS! 
+## Oi eu sou o Rodrigo!
+##Desenvolvedor Full Stack
+##Tenho conhecimento em Delphi,C#,ASP.NET,HTML,CSS,JS! 
 <div align="center">
   <a href="https://github.com/rodrigocsdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigocsdev&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocsdev"/>
+  <img height="180em" src="[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rodrigocsdev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/rodrigocsdev/github-readme-stats#gh-dark-mode-only)
+/>
+  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocsdev&layout=donut-vertical)](https://github.com/rodrigocsdev/github-readme-stats)"/>
 </div>
   
   ## Contato
