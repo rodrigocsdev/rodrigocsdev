@@ -1,6 +1,4 @@
 ## Oi eu sou o Rodrigo!
-##Desenvolvedor Full Stack
-##Ttenho conhecimento em Delphi,C#,ASP.NET,HTML,CSS,JS! 
 <div align="center">
   <picture>
   <source
