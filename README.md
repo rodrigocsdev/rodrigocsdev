@@ -1,14 +1,141 @@
-## Oi eu sou o Rodrigo!
-<div align="center">
-  <a href="https://github.com/rodrigocsdev">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigocsdev&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true)"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocsdev&layout=donut-vertical&theme=dark#gh-dark-mode-only"/>
+<h1 align="center">👋 Olá! Eu sou o Rodrigo Santos</h1>
+
+<p align="center">
+  Desenvolvedor • Implantador de Sistemas • Criador da SMRC
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+Sou desenvolvedor com experiência em criação de sistemas corporativos, ERPs, implantações e integrações. Trabalho com tecnologias Microsoft, web moderna e bancos relacionais.  
+Criei a empresa fictícia **SMRC** para unificar meus projetos e demonstrar minhas habilidades em um ecossistema próprio.
+
+---
+
+# 🛠️ Tecnologias que domino
+
+## 🔹 **Back-end**
+<div>
+  
+- **C#**
+- **.NET / ASP.NET**
+- **Delphi (VCL)**
+- **SQL Server**
+- **T-SQL**
+- **Firebird**
+- **APIs REST**
+
 </div>
 
+---
 
-  ## Contato
+## 🔹 **Front-end**
+<div>
 
-<div>   
-<a href="mailto:carvalhosantos.rodrigo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rodrigo-cs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- **Angular**
+- **AngularJS**
+- **React**
+- **Next.js**
+- **TypeScript**
+- **JavaScript**
+- **Bootstrap**
+- **shadcn/ui**
+
 </div>
+
+---
+
+## 🔹 **Mobile**
+<div>
+
+- **Xamarin Forms (C# / MVVM)**
+
+</div>
+
+---
+
+## 🔹 **Banco de Dados**
+<div>
+
+- **SQL Server**
+- **Firebird**
+- **PostgreSQL**
+- **Prisma ORM**
+- Modelagem de dados  
+- Otimização de queries  
+- Views, triggers, procedures  
+
+</div>
+
+---
+
+## 🔹 **Ferramentas & Integrações**
+<div>
+
+- **DevExpress Reports**  
+- **Report Builder (Delphi)**  
+- **ACBr (fiscal)**  
+- **Certificados Digitais A1/A3**  
+- **SAT**  
+- **Integrações fiscais**  
+- **Netlify (deploy & gateway de assinaturas)**
+
+</div>
+
+---
+
+# 🌐 Projetos em Destaque (SMRC)
+
+## 🧩 **SMRC – Empresa fictícia para meus projetos**
+📌 **Site:** https://smrc.netlify.app/  
+🛠️ **Tecnologias:**  
+- Next.js  
+- shadcn/ui  
+- Prisma ORM  
+- PostgreSQL  
+- Netlify (deploy + gateway de assinatura)
+
+---
+
+## 📅 **SMRC Agenda – Sistema de Agendamento**
+📌 **Acesso:** https://smrcagenda.netlify.app/  
+🛠️ **Tecnologias:**  
+- Next.js  
+- PostgreSQL  
+- Prisma  
+- Netlify  
+- UI moderna com shadcn
+
+Sistema criado para ser base de agendas de consultórios, clínicas, profissionais liberais e empresas.
+
+---
+
+## 🛒 **Lista de Compras – SMRC**
+📌 **Acesso:** https://comprasv1.netlify.app/  
+🛠️ **Tecnologias:**  
+- React  
+- JavaScript  
+- Netlify
+
+Sistema simples e eficiente para listas de compras online.
+
+---
+
+# 🌱 Estou estudando
+- Next.js avançado  
+- Stripe (assinaturas & pagamentos)  
+- Integrações modernas com webhooks  
+- APIs completas com gateways de pagamento  
+
+---
+
+# 📫 Contato
+
+📧 **Email:** carvalhosantos.rodrigo@gmail.com  
+🌐 **Portfólio / SMRC:** https://smrc.netlify.app/  
+📘 **LinkedIn:** *(adicione aqui se quiser, posso incluir no README)*
+
+---
+
+<p align="center">Obrigado por visitar meu GitHub! 🚀</p>
