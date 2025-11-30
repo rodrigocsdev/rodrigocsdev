@@ -17,24 +17,17 @@ Também utilizo **Inteligências Artificiais modernas (como ChatGPT e GitHub Cop
 
 # 🤖 Meu uso de IA no desenvolvimento
 
-A IA hoje não é obrigatória, mas é uma vantagem competitiva enorme.  
-Por isso, utilizo IA como **ferramenta profissional**, e não como substituto do conhecimento.
+Uso IA como **ferramenta profissional**, e não como substituto do conhecimento.  
+Ela me ajuda a:
 
-Aqui estão alguns pontos onde uso IA diariamente:
+- gerar código inicial  
+- revisar e otimizar componentes  
+- criar documentação  
+- escrever testes  
+- revisar SQL, APIs e lógica  
+- acelerar tarefas repetitivas  
 
-- geração de código inicial  
-- refatoração e otimização de componentes  
-- documentação e organização de projetos  
-- criação de testes  
-- revisão de SQL, APIs e lógica  
-- aumento de produtividade em tarefas repetitivas  
-
-Ou seja:
-
-**IA = velocidade + qualidade  
-Conhecimento técnico = solidez e precisão**
-
-Eu trabalho com os dois.
+**IA + conhecimento técnico = produtividade alta e entregas de qualidade.**
 
 ---
 
@@ -44,69 +37,72 @@ Eu trabalho com os dois.
 - C#
 - .NET / ASP.NET
 - Delphi (VCL)
-- SQL/T-SQL
-- Firebird
+- SQL/T-SQL  
+- Firebird  
 - APIs REST
 
 ---
 
 ## 🔹 Front-end
-- Angular
-- AngularJS
-- React
-- Next.js
-- TypeScript / JavaScript
-- Bootstrap
-- shadcn/ui
+- Angular  
+- AngularJS  
+- React  
+- Next.js  
+- JavaScript / TypeScript  
+- Bootstrap  
+- shadcn/ui  
 
 ---
 
 ## 🔹 Mobile
-- Xamarin Forms (C# / MVVM)
+- Xamarin Forms (C# / MVVM)  
+- **React Native** (em evolução contínua)
 
 ---
 
 ## 🔹 Banco de Dados
-- SQL Server
-- Firebird
+- SQL Server  
+- Firebird  
 - PostgreSQL  
-- Prisma ORM
+- Prisma ORM  
 - Modelagem, triggers, procedures, views
 
 ---
 
 ## 🔹 Ferramentas & Integrações
-- DevExpress Reports
-- Report Builder (Delphi)
-- ACBr (fiscal)
-- Certificados Digitais A1/A3
-- SAT
-- Integrações fiscais
+- DevExpress Reports  
+- Report Builder (Delphi)  
+- ACBr (fiscal)  
+- Certificados Digitais A1/A3  
+- SAT  
+- Integrações fiscais  
 - Netlify (deploy e gateway de assinatura)
 
 ---
 
 # 🌐 Projetos em Destaque (SMRC)
 
-## 🧩 SMRC – Site principal
+## 🧩 SMRC – Site principal  
 📌 **https://smrc.netlify.app/**  
-🛠️ **Tecnologias:** Next.js, shadcn/ui, Prisma, PostgreSQL, Netlify (deploy + gateway de assinatura)
+🛠️ Tecnologias: Next.js, shadcn/ui, Prisma, PostgreSQL, Netlify
 
 ---
 
-## 📅 SMRC Agenda – Sistema de Agendamentos
+## 📅 SMRC Agenda – Sistema de Agendamentos  
 📌 **https://smrcagenda.netlify.app/**  
-🛠️ **Tecnologias:** Next.js, Prisma, PostgreSQL, shadcn/ui, Netlify
+🛠️ Tecnologias: Next.js, Prisma, PostgreSQL, shadcn/ui, Netlify  
 
 ---
 
-## 🛒 Lista de Compras – SMRC
+## 🛒 Lista de Compras – SMRC  
 📌 **https://comprasv1.netlify.app/**  
-🛠️ **Tecnologias:** React, JavaScript, Netlify
+🛠️ Tecnologias: React, JavaScript, Netlify  
 
 ---
 
 # 🌱 Atualmente estudando
+
+- React Native (mobile moderno)  
 - Stripe (pagamentos & assinaturas)  
 - Next.js avançado  
 - Webhooks e automações  
@@ -115,8 +111,10 @@ Eu trabalho com os dois.
 ---
 
 # 📫 Contato
+
 📧 **Email:** carvalhosantos.rodrigo@gmail.com  
 🌐 **Portfólio / SMRC:** https://smrc.netlify.app/  
+🔗 **LinkedIn:** https://www.linkedin.com/in/rodrigo-cs  
 
 ---
 
