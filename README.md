@@ -8,133 +8,115 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor com experiência em criação de sistemas corporativos, ERPs, implantações e integrações. Trabalho com tecnologias Microsoft, web moderna e bancos relacionais.  
-Criei a empresa fictícia **SMRC** para unificar meus projetos e demonstrar minhas habilidades em um ecossistema próprio.
+Sou desenvolvedor com experiência em criação de sistemas corporativos, ERPs, implantações e integrações.  
+Criei a empresa fictícia **SMRC** para reunir meus projetos e demonstrar minhas habilidades em um ecossistema unificado.
+
+Também utilizo **Inteligências Artificiais modernas (como ChatGPT e GitHub Copilot)** como ferramenta de apoio no desenvolvimento, documentação e otimização — seguindo as práticas mais atuais do mercado, que valorizam produtividade e qualidade de entrega.
+
+---
+
+# 🤖 Meu uso de IA no desenvolvimento
+
+A IA hoje não é obrigatória, mas é uma vantagem competitiva enorme.  
+Por isso, utilizo IA como **ferramenta profissional**, e não como substituto do conhecimento.
+
+Aqui estão alguns pontos onde uso IA diariamente:
+
+- geração de código inicial  
+- refatoração e otimização de componentes  
+- documentação e organização de projetos  
+- criação de testes  
+- revisão de SQL, APIs e lógica  
+- aumento de produtividade em tarefas repetitivas  
+
+Ou seja:
+
+**IA = velocidade + qualidade  
+Conhecimento técnico = solidez e precisão**
+
+Eu trabalho com os dois.
 
 ---
 
 # 🛠️ Tecnologias que domino
 
-## 🔹 **Back-end**
-<div>
-  
-- **C#**
-- **.NET / ASP.NET**
-- **Delphi (VCL)**
-- **SQL Server**
-- **T-SQL**
-- **Firebird**
-- **APIs REST**
-
-</div>
+## 🔹 Back-end
+- C#
+- .NET / ASP.NET
+- Delphi (VCL)
+- SQL/T-SQL
+- Firebird
+- APIs REST
 
 ---
 
-## 🔹 **Front-end**
-<div>
-
-- **Angular**
-- **AngularJS**
-- **React**
-- **Next.js**
-- **TypeScript**
-- **JavaScript**
-- **Bootstrap**
-- **shadcn/ui**
-
-</div>
+## 🔹 Front-end
+- Angular
+- AngularJS
+- React
+- Next.js
+- TypeScript / JavaScript
+- Bootstrap
+- shadcn/ui
 
 ---
 
-## 🔹 **Mobile**
-<div>
-
-- **Xamarin Forms (C# / MVVM)**
-
-</div>
+## 🔹 Mobile
+- Xamarin Forms (C# / MVVM)
 
 ---
 
-## 🔹 **Banco de Dados**
-<div>
-
-- **SQL Server**
-- **Firebird**
-- **PostgreSQL**
-- **Prisma ORM**
-- Modelagem de dados  
-- Otimização de queries  
-- Views, triggers, procedures  
-
-</div>
+## 🔹 Banco de Dados
+- SQL Server
+- Firebird
+- PostgreSQL  
+- Prisma ORM
+- Modelagem, triggers, procedures, views
 
 ---
 
-## 🔹 **Ferramentas & Integrações**
-<div>
-
-- **DevExpress Reports**  
-- **Report Builder (Delphi)**  
-- **ACBr (fiscal)**  
-- **Certificados Digitais A1/A3**  
-- **SAT**  
-- **Integrações fiscais**  
-- **Netlify (deploy & gateway de assinaturas)**
-
-</div>
+## 🔹 Ferramentas & Integrações
+- DevExpress Reports
+- Report Builder (Delphi)
+- ACBr (fiscal)
+- Certificados Digitais A1/A3
+- SAT
+- Integrações fiscais
+- Netlify (deploy e gateway de assinatura)
 
 ---
 
 # 🌐 Projetos em Destaque (SMRC)
 
-## 🧩 **SMRC – Empresa fictícia para meus projetos**
-📌 **Site:** https://smrc.netlify.app/  
-🛠️ **Tecnologias:**  
-- Next.js  
-- shadcn/ui  
-- Prisma ORM  
-- PostgreSQL  
-- Netlify (deploy + gateway de assinatura)
+## 🧩 SMRC – Site principal
+📌 **https://smrc.netlify.app/**  
+🛠️ **Tecnologias:** Next.js, shadcn/ui, Prisma, PostgreSQL, Netlify (deploy + gateway de assinatura)
 
 ---
 
-## 📅 **SMRC Agenda – Sistema de Agendamento**
-📌 **Acesso:** https://smrcagenda.netlify.app/  
-🛠️ **Tecnologias:**  
-- Next.js  
-- PostgreSQL  
-- Prisma  
-- Netlify  
-- UI moderna com shadcn
-
-Sistema criado para ser base de agendas de consultórios, clínicas, profissionais liberais e empresas.
+## 📅 SMRC Agenda – Sistema de Agendamentos
+📌 **https://smrcagenda.netlify.app/**  
+🛠️ **Tecnologias:** Next.js, Prisma, PostgreSQL, shadcn/ui, Netlify
 
 ---
 
-## 🛒 **Lista de Compras – SMRC**
-📌 **Acesso:** https://comprasv1.netlify.app/  
-🛠️ **Tecnologias:**  
-- React  
-- JavaScript  
-- Netlify
-
-Sistema simples e eficiente para listas de compras online.
+## 🛒 Lista de Compras – SMRC
+📌 **https://comprasv1.netlify.app/**  
+🛠️ **Tecnologias:** React, JavaScript, Netlify
 
 ---
 
-# 🌱 Estou estudando
+# 🌱 Atualmente estudando
+- Stripe (pagamentos & assinaturas)  
 - Next.js avançado  
-- Stripe (assinaturas & pagamentos)  
-- Integrações modernas com webhooks  
-- APIs completas com gateways de pagamento  
+- Webhooks e automações  
+- Arquiteturas modernas com IA
 
 ---
 
 # 📫 Contato
-
 📧 **Email:** carvalhosantos.rodrigo@gmail.com  
 🌐 **Portfólio / SMRC:** https://smrc.netlify.app/  
-📘 **LinkedIn:** *(adicione aqui se quiser, posso incluir no README)*
 
 ---
 
